@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<filmlist>
+    <film director="Дени Вильнёв" genre="Научная фантастика" name="Дюна" session="18:00" studio="Legendary Pictures" ticketsSold="120" year="2021"/>
+    <film director="Джо Райт" genre="Драма" name="Темные времена" session="20:30" studio="Working Title Films" ticketsSold="90" year="2017"/>
+</filmlist>
